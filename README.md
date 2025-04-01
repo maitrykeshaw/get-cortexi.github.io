@@ -1,1 +1,1 @@
-# get-cortexi.github.io
+# https://get-cortexi.vercel.app
