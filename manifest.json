@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Cortexi™ |Official Website| Get Over 72% Off Today Only",
+  "short_name":"Cortexi™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Cortexi is a dietary supplement that is made as a hearing support solution with the power to heal hearing health.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
